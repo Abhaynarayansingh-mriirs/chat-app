@@ -1,0 +1,9 @@
+ERP/
+node_modules/
+node-web/
+node-todo-api/
+other/
+playground/
+trial/
+weatherapp/
+.vscode/
